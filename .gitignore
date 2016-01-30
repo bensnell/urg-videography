@@ -12,8 +12,10 @@ recordings/
 # User-Specific Settings
 *.xml
 
-# Except Timeline Settings
+# Keep ofxTimeline Default Settings
 !defaultColorPalette.png
+!defaultColors.xml
+!NewMedia Fett.ttf
 
 # PLY Files
 *.ply
