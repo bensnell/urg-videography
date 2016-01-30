@@ -11,8 +11,9 @@ recordings/
 
 # User-Specific Settings
 *.xml
+
 # Except Timeline Settings
-!bin/data/GUI
+!defaultColorPalette.png
 
 # PLY Files
 *.ply
