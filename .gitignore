@@ -6,8 +6,13 @@ recordings/
 # Images
 *.png
 
+# Fonts
+*.ttf
+
 # User-Specific Settings
 *.xml
+# Except Timeline Settings
+!/data/GUI/
 
 # PLY Files
 *.ply
