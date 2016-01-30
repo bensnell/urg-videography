@@ -12,7 +12,7 @@ recordings/
 # User-Specific Settings
 *.xml
 # Except Timeline Settings
-!/data/GUI/
+!bin/data/GUI
 
 # PLY Files
 *.ply
